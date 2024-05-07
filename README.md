@@ -1,6 +1,6 @@
-# 📚 Chaptered Emporium - Library Management System 📖
+# 📚 Library Management System 📖
 
-Chaptered Emporium is a library which needs a need management system for its database. Here is a new management system designed to help you manage your bookstore efficiently. Keep track of books, authors, customers, orders, publishers, genres, and more with ease!
+**`Chaptered Emporium`** is a library which needs a need management system for its database. Here is a new management system designed to help you manage your bookstore efficiently. Keep track of books, authors, customers, orders, publishers, genres, and more with ease!
 
 ## Features
 
@@ -18,7 +18,7 @@ Chaptered Emporium is a library which needs a need management system for its dat
 
 ## Schema Diagram
 
-![Schema Diagram](PNG/schema_diagram.png)
+![Schema Diagram](SVG/schema_diagram.svg)
 
 ## Installation
 
