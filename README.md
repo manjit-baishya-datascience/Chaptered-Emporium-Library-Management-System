@@ -17,8 +17,8 @@ Chaptered Emporium is a library which needs a need management system for its dat
 📚 **Genre Management**: Manage genres and their information, including name, total issues, total revenues, total books, total authors, and total publishers.
 
 ## Schema Diagram
-The below is a schema diagram for the entire database system:
-![Schema Diagram](chaptered_emporium.svg)
+
+![Schema Diagram](SVG/schema_diagram.svg)
 
 ## Installation
 
