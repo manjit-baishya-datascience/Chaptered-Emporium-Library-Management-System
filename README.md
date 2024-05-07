@@ -18,7 +18,7 @@ Chaptered Emporium is a library which needs a need management system for its dat
 
 ## Schema Diagram
 
-![Schema Diagram](SVG/schema_diagram.svg)
+![Schema Diagram](PNG/schema_diagram.png)
 
 ## Installation
 
