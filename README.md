@@ -1,4 +1,5 @@
 # 📚 Library Management System 📖
+![header](https://github.com/manjit-baishya-datascience/Library-Management-System/assets/127611924/7a842e19-1639-4fa8-93bf-dec233634d53)
 
 **`Chaptered Emporium`** is a library which needs a need management system for its database. Here is a new management system designed to help you manage your bookstore efficiently. Keep track of books, authors, customers, orders, publishers, genres, and more with ease!
 
