@@ -19,7 +19,7 @@
 
 ## Schema Diagram
 
-![Schema Diagram](/assets/schema_diagram.svg)
+<!-- ![Schema Diagram](/assets/schema_diagram.svg) -->
 
 ## Installation
 
